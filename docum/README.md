@@ -1,4 +1,14 @@
-# React + TypeScript + Vite
+# BK Documentation
+
+Ho iniziato a scrivere tramite la MUI un'iniziale implementazione per la documentazione di BK
+
+Dobbiamo ancora definire tutte le pagine presenti e i loro contenuti e anche come implementarle.
+
+Penso vada bene che siano statiche e non dinamiche visto che la struttura della documentazione sara' sempre uguale.
+
+Da decidere anche come implementare il multilingua se vogliamo metterlo e quindi come definire poi i testi contenuti nelle varie pagine se tramite file JSON o MDX.
+
+## React + TypeScript + Vite + Tailwind + MUI
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
